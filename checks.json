@@ -1,2 +1,25 @@
-["h1",
- ".navigation"]
+["h1", ".navigation",".blank",
+
+".about"
+  ,
+    ".heading"
+    ,
+      ".subheading"
+      ,
+        ".pitch"
+        ,
+          ".thermometer"
+          ,
+           ".video"
+           ,
+            ".order"
+            ,
+             ".social"
+             ,
+              ".section1"
+              ,
+               ".section2"
+               ,
+                ".faq"
+                ,
+                 ".footer"]
